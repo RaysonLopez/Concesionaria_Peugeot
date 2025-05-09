@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Proyecto de Base de datos con Node,js y POSTGRES",
+  "keywords": [
+    "database",
+    "postgres",
+    "javascript",
+    "node",
+    "html",
+    "css",
+    "web"
+  ],
+  "homepage": "https://github.com/RaysonLopez/concesionaria_peugeot#readme",
+  "bugs": {
+    "url": "https://github.com/RaysonLopez/concesionaria_peugeot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaysonLopez/concesionaria_peugeot.git"
+  },
+  "license": "ISC",
+  "author": "Grupo 3 Sistema de base de datos ESPE",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "pg": "^8.15.6"
+  }
+}
